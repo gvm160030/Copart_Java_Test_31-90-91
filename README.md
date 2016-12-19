@@ -1,7 +1,7 @@
 # Copart_Java_Test_31-90-91
 Group Java coding assignment_ 12/19/2016
 
-Students Names:
+Students Details:
 1. Tejashree Pandit : 31 : tsp160130@utdallas.edu
 2. Gauri Mutha : 90 : gvm160030@utdallas.edu
 3. Piyush Supe  91 : pgs160230@utdallas.edu
